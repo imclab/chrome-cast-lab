@@ -1,0 +1,16 @@
+.background {
+    background-color: #df3434;
+}
+.logo {
+    background-image: url(http://lezhin.com/img/main-logo.png);
+}
+.progressBar {
+    background-color: rgb(238, 255, 65);
+}
+.splash {
+    background-image: url(http://lezhin.com/img/lezhin_share.png);
+}
+.watermark {
+    background-image: url(http://lezhin.com/img/viewer-logo.png);
+    background-size: 60px 60px;
+}
